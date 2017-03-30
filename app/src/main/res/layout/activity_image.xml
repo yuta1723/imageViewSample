@@ -6,6 +6,6 @@
         android:id="@+id/activity_image"
         android:layout_height="match_parent"
         android:layout_width="match_parent"
-        android:src="@drawable/konan"/>
+        android:src="@drawable/konan_small"/>
 
 </LinearLayout>
